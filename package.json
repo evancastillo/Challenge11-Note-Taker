@@ -1,0 +1,27 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "An application for writing and saving notes. This application uses an Express.js back end and stores and retrieves note data in a JSON file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node": "^16.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evancastillo/Challenge11-Note-Taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/evancastillo/Challenge11-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/evancastillo/Challenge11-Note-Taker#readme"
+}
